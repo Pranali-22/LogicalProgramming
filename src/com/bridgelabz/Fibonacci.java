@@ -32,7 +32,6 @@ public class Fibonacci {
 				a=b;
 				b=fibonacciNumber;
 				System.out.println(fibonacciNumber);
-				
 			}
 		}
 		
